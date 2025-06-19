@@ -1,0 +1,5 @@
+git add .
+git commit -m "Add homepage and styles"
+git branch -M main
+git remote add origin git@github.com:KraloveB/flightpathguru.git
+git push -u origin main
