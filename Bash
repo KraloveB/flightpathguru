@@ -1,0 +1,2 @@
+git branch        # confirms you're on 'main'
+git push origin main
